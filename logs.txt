@@ -1,0 +1,4 @@
+
+Name: Ram | (10, 5) | Result: 2.0 
+Name: Shyam | (10, 0) | Result: ERROR!! 
+Name: Radheshyam | (10, 0) | Result: ERROR!! 

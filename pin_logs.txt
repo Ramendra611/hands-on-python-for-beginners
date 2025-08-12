@@ -1,0 +1,9 @@
+You have entered invalid pin. Pin should have 6 digits.2024-10-29 19:52:15.755696:  You have entered invalid pin. Pin should have 6 digits.2024-10-29 19:52:32.663633:  You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:52:49.958404:  You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:54:29.981272:  Shyam You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:54:45.979027:  Shyam You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:56:09.580738:  Ram You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:56:09.581731:  Ram You entered an invalid pin. Please try again. 
+2024-10-29 19:56:11.707435:  Ram You have entered invalid pin. Pin should have 6 digits.
+2024-10-29 19:56:11.707543:  Ram You entered an invalid pin. Please try again. 
+2024-10-29 19:57:29.948928:  Ram You entered the correct pin 
