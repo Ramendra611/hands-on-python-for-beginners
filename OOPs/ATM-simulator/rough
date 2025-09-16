@@ -1,0 +1,6 @@
+function hasDuplicate(arr):
+    for i from 0 to length(arr) - 1:          # Outer loop
+        for j from i + 1 to length(arr) - 1:  # Inner loop
+            if arr[i] == arr[j]:
+                return true                    # Duplicate found
+    return false                              # No duplicates
